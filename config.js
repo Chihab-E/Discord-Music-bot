@@ -1,5 +1,5 @@
 module.exports = {
-  clientId: "685258529141031073",  
+  clientId: "Put Your Bot ID Here",  
   emoji: {
     "play": "▶️",
     "stop": "⏹️",
